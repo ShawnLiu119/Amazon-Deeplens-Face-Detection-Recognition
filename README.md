@@ -18,4 +18,4 @@ python 3.7, AWS Linux
 
 ## **Face Detection Model Overview**
 
-![This is an image](workflow.PNG)
+![This is an image](model.PNG)
