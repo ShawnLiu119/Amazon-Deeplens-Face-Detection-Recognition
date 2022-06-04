@@ -7,3 +7,15 @@ This project aims at developing a computer vision application with capability of
 ## **Architecture**
 
 ![This is an image](workflow.PNG)
+
+## **Features**
+- Detect faces via DeepLens camera
+- Match faces with registered profile
+- Generate welcome message specific to each profile
+
+## **Development Environment**
+python 3.7, AWS Linux
+
+## **Face Detection Model Overview**
+
+![This is an image](workflow.PNG)
