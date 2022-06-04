@@ -6,4 +6,4 @@ This project aims at developing a computer vision application with capability of
 
 ## **Architecture**
 
-![This is an image]
+![This is an image](workflow.PNG)
