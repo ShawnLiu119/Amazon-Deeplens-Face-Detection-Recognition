@@ -1,4 +1,4 @@
-# aws_deeplens_face_recognition_project
+# AWS_Deeplens_Face_Recognition_Project
 
 ## **Objectives**
 
